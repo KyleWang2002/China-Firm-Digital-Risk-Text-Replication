@@ -80,7 +80,7 @@ docs/                     Methods, case studies, provenance, and citation notes
 **Original paper:** 陆瑶，施函青，周欣怡. 2025. 中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据[J]. 经济研究，60(2): 73–89.
 
 - [Economic Research Journal, 2025 Issue 2 (National Center for Philosophy and Social Sciences Documentation)](https://m.ncpssd.cn/journal/details?gch=95645X&langType=1&nav=1&num=2&years=2025)
-- [References and data sources](docs/REFERENCES.md) · [Code provenance and acknowledgments](docs/PROVENANCE.md)
+- [References and data sources](docs/REFERENCES.md) · [Paper–code comparison](docs/PAPER_VS_CODE.md)
 
 This project independently replicates and extends methods described in the published paper. The paper's findings belong to its original authors. Notebooks, tool-related ideas, and model experiments from different sources are credited separately in the relevant documentation; I do not present others' contributions as my own. Original annual reports and external models remain subject to their respective usage requirements.
 
