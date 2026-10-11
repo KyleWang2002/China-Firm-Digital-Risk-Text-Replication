@@ -79,8 +79,8 @@ docs/                      研究方法、案例、来源与引用说明
 **原始论文：** 陆瑶，施函青，周欣怡. 2025. 中国企业数字技术风险暴露对企业价值的影响——来自大语言模型的文本分析证据[J]. 经济研究，60(2): 73–89.
 
 - [《经济研究》2025年第2期目录（国家哲学社会科学文献中心）](https://m.ncpssd.cn/journal/details?gch=95645X&langType=1&nav=1&num=2&years=2025)
-- [参考文献与数据来源](docs/REFERENCES.md) · [代码来源与致谢](docs/PROVENANCE.md)
-
+- [参考文献与数据来源](docs/REFERENCES.md) · [论文与代码对应表](docs/PAPER_VS_CODE.md)
+- 
 本项目依托原论文的方法和公开发表的研究内容开展独立复现与扩展。论文结论归原作者所有；不同来源的Notebook、工具思路和模型实验在相关文档中分别注明，不把其他人的贡献写成自己的工作。年报原始文件及外部模型遵循对应的使用要求。
 
 **王元奎（Yuankui Wang）** · Hunan University
