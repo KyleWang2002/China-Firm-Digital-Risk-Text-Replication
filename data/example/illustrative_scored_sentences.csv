@@ -1,0 +1,7 @@
+firm_id,year,filename,sentence_id,categories,keywords,sentence,predicted_label,prob_risk,prob_mitigation
+999999,2020,fictional_2020.txt,1,data|cyber,数据泄露|网络攻击,我们面临数据泄露和网络攻击的潜在风险。,risk,0.93,0.07
+999999,2020,fictional_2020.txt,2,data|cyber,防火墙|数据安全,公司新增防火墙并完善信息安全治理。,mitigation,0.08,0.92
+999999,2020,fictional_2020.txt,3,data,数据保护,建立数据保护应急预案。,mitigation,0.15,0.85
+999999,2021,fictional_2021.txt,1,cyber,设备故障,设备故障的可能性尚未完全消除。,risk,0.72,0.28
+999999,2021,fictional_2021.txt,2,cyber,网络安全|恶意软件,公司加强网络安全培训并对恶意软件开展周期检查。,mitigation,0.10,0.90
+999999,2021,fictional_2021.txt,3,data,数据保护,数据保护措施提高了运营可靠性。,mitigation,0.10,0.90

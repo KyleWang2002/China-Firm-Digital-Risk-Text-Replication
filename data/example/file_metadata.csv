@@ -1,0 +1,3 @@
+filename,firm_id,year,source,is_real
+fictional_2020.txt,999999,2020,synthetic_fixture,false
+fictional_2021.txt,999999,2021,synthetic_fixture,false

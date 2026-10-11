@@ -1,0 +1,3 @@
+# Optional packages for retrieval, PDF conversion, embeddings, and transformer ML.
+# Only install the parts you need; large checkpoints are not included.
+-e .[collect,embedding,model]

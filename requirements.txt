@@ -1,0 +1,3 @@
+# Minimal offline pipeline and unit tests use Python's standard library.
+# Install this project as an editable package:
+-e .
